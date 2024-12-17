@@ -1,0 +1,27 @@
+{
+    "name": "Next.js Weather Bot Development",
+    "image": "mcr.microsoft.com/devcontainers/javascript-node:latest",
+    "forwardPorts": [
+      3000
+    ],
+    "customizations": {
+      "vscode": {
+        "settings": {
+          "eslint.autoFixOnSave": true,
+          "eslint.validate": [
+            "javascript",
+            "typescript",
+            "javascriptreact",
+            "typescriptreact"
+          ],
+          "editor.formatOnSave": true
+        },
+        "extensions": [
+          "esbenp.prettier-vscode",
+          "dbaeumer.vscode-eslint",
+          "ms-vscode.vscode-typescript-tslint-plugin"
+        ]
+      }
+    },
+    "postCreateCommand": "yarn install"
+  }
