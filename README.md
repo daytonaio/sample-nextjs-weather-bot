@@ -76,3 +76,5 @@ CopilotKit Weather Bot is your personal weather assistant, designed to keep you 
 
 Hello, I'm Janumala Akhilendra
 Connect with me on [LinkedIn](https://www.linkedin.com/in/akhilendra/) and check out my cool projects on [GitHub](https://github.com/JanumalaAkhilendra).
+
+---
